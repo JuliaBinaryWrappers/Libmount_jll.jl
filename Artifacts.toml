@@ -1,0 +1,81 @@
+[[Libmount]]
+arch = "x86_64"
+git-tree-sha1 = "129b2d96ae9814bd52f7808fea21b03d05418083"
+libc = "glibc"
+os = "linux"
+
+    [[Libmount.download]]
+    sha256 = "b49804eeb05094c34d3ef92927ed56cb2ca2161f76beab025b71bfd76fa8620b"
+    url = "https://github.com/JuliaBinaryWrappers/Libmount_jll.jl/releases/download/Libmount-v2.34.0+0/Libmount.v2.34.0.x86_64-linux-gnu.tar.gz"
+[[Libmount]]
+arch = "i686"
+git-tree-sha1 = "d14e3d6e05d61c4356c4164c0fddbe641c4e13b2"
+libc = "musl"
+os = "linux"
+
+    [[Libmount.download]]
+    sha256 = "81d7bc37237bdac163bec9d06e2c13f6f6bf4c6e0f0dbe6f7210ff0612d3a40a"
+    url = "https://github.com/JuliaBinaryWrappers/Libmount_jll.jl/releases/download/Libmount-v2.34.0+0/Libmount.v2.34.0.i686-linux-musl.tar.gz"
+[[Libmount]]
+arch = "x86_64"
+git-tree-sha1 = "2f2345ffb049625aeaa0693c43d8ea6b8474cf5d"
+libc = "musl"
+os = "linux"
+
+    [[Libmount.download]]
+    sha256 = "967a4317878bdd98685913770c6e9e26bcb02afcd3223c656b24b99372211d8e"
+    url = "https://github.com/JuliaBinaryWrappers/Libmount_jll.jl/releases/download/Libmount-v2.34.0+0/Libmount.v2.34.0.x86_64-linux-musl.tar.gz"
+[[Libmount]]
+arch = "aarch64"
+git-tree-sha1 = "e6a716e20a3dbf75d89108c3432ab349a461afdd"
+libc = "musl"
+os = "linux"
+
+    [[Libmount.download]]
+    sha256 = "f7bd43018860e69b73643bf473882776996486af7d3a3ab3af2dcc3e6cbb49e3"
+    url = "https://github.com/JuliaBinaryWrappers/Libmount_jll.jl/releases/download/Libmount-v2.34.0+0/Libmount.v2.34.0.aarch64-linux-musl.tar.gz"
+[[Libmount]]
+arch = "armv7l"
+git-tree-sha1 = "8175d4ca7aad968683c155b69cc156064c746f1f"
+libc = "musl"
+os = "linux"
+
+    [[Libmount.download]]
+    sha256 = "4c427e17216e4eb8f19db4476e9f6f461be1faee14fef9ea32de695d17c3179d"
+    url = "https://github.com/JuliaBinaryWrappers/Libmount_jll.jl/releases/download/Libmount-v2.34.0+0/Libmount.v2.34.0.arm-linux-musleabihf.tar.gz"
+[[Libmount]]
+arch = "i686"
+git-tree-sha1 = "c3433460dda44ca899441e9372598d69373adc16"
+libc = "glibc"
+os = "linux"
+
+    [[Libmount.download]]
+    sha256 = "cf9d00e1583b4a2e517ab36d2fc34f45355c6527ab0fc5d4ca5ee7c899face89"
+    url = "https://github.com/JuliaBinaryWrappers/Libmount_jll.jl/releases/download/Libmount-v2.34.0+0/Libmount.v2.34.0.i686-linux-gnu.tar.gz"
+[[Libmount]]
+arch = "armv7l"
+git-tree-sha1 = "b7203bc7d7904b783cf8d2f188098d90f71dd947"
+libc = "glibc"
+os = "linux"
+
+    [[Libmount.download]]
+    sha256 = "a9057d09a28e60d27b51f6ac30d317f0b89e19d519c50feff30879c2d1b3a7ad"
+    url = "https://github.com/JuliaBinaryWrappers/Libmount_jll.jl/releases/download/Libmount-v2.34.0+0/Libmount.v2.34.0.arm-linux-gnueabihf.tar.gz"
+[[Libmount]]
+arch = "aarch64"
+git-tree-sha1 = "4b835f790804b96dffc87042fda0cc88162672f8"
+libc = "glibc"
+os = "linux"
+
+    [[Libmount.download]]
+    sha256 = "aa0005af8413514d51821fcfc2f15e229198da2ed71ee479ae230f4ae4014e72"
+    url = "https://github.com/JuliaBinaryWrappers/Libmount_jll.jl/releases/download/Libmount-v2.34.0+0/Libmount.v2.34.0.aarch64-linux-gnu.tar.gz"
+[[Libmount]]
+arch = "powerpc64le"
+git-tree-sha1 = "ee23ac922210460c7dc73634b4d597ffe83215d1"
+libc = "glibc"
+os = "linux"
+
+    [[Libmount.download]]
+    sha256 = "692a225970f55f6e657d3f78d8ec29b98bd7d8763c400bb8c080729e25eadce9"
+    url = "https://github.com/JuliaBinaryWrappers/Libmount_jll.jl/releases/download/Libmount-v2.34.0+0/Libmount.v2.34.0.powerpc64le-linux-gnu.tar.gz"
